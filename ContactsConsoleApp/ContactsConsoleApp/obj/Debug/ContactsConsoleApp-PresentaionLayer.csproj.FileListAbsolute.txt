@@ -1,0 +1,3 @@
+C:\Users\Hamee\source\repos\ContactsConsoleApp-PresentaionLayer\ContactsConsoleApp-PresentaionLayer\obj\Debug\ContactsConsoleApp-PresentaionLayer.csproj.AssemblyReference.cache
+C:\Users\Hamee\source\repos\ContactsConsoleApp-PresentaionLayer\ContactsConsoleApp-PresentaionLayer\obj\Debug\ContactsConsoleApp-PresentaionLayer.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hamee\source\repos\ContactsConsoleApp-PresentaionLayer\ContactsConsoleApp-PresentaionLayer\obj\Debug\ContactsConsoleApp-PresentaionLayer.csproj.CoreCompileInputs.cache
